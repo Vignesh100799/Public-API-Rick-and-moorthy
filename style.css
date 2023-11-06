@@ -1,0 +1,16 @@
+#card{
+text-align: center;
+}
+.card{
+    color: rgb(0, 136, 255) !important;
+   
+    
+}
+
+.list-group{
+    background-color: aqua !important;
+}
+body{
+    background: rgb(249,255,0);
+background: linear-gradient(223deg, rgba(249,255,0,1) 18%, rgba(69,255,0,1) 35%, rgba(255,231,0,1) 66%, rgba(147,255,0,1) 83%); 
+}
